@@ -98,3 +98,7 @@ By becoming a part of the "Cloud Captain" community, you'll:
 To contribute to the "[Cloud Captain](https://github.com/nomadicmehul/CloudCaptain)" project, follow the guidelines outlined in the README file. Your participation contributes to the enrichment of our community and provides valuable resources.
 
 Let's build a vibrant and supportive community together! Join us on this exciting journey into the world of DevOps and Cloud technologies. 🌐✨
+
+## 🛡️ License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
