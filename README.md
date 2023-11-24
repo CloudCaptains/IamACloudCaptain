@@ -33,7 +33,7 @@ To contribute to the "IamACloudCaptain" project, follow these steps:
 
 | **Name**                         | **GitHub Profile**                                              | **Location**              | **Current Company**  | **Current Role/Designation** | **Skills Keywords**  | **Specific Roles of Interest**  | **CV/Resume**  |
 |----------------------------------|------------------------------------------------------------------|---------------------------|-----------------------|------------------------------|----------------------|---------------------------------|----------------|
-| Mehul Patel                         | [GitHub Profile](https://github.com/nomadicmehul/)                                          | Gandhinagar, India             | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes | Cloud Architect                 | [CV/Resume](link) |
+| Mehul Patel                         | [GitHub Profile](https://github.com/nomadicmehul/)                                          | Gandhinagar, India             | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes | Cloud Architect                 | [CV/Resume](./resumes/Mehul_Patel_Resume.pdf) |
 | Jane Smith                       | [GitHub Profile](link)                                          | San Francisco, USA        | XYZ Corporation        | Cloud Architect              | Azure, Terraform       | DevOps Engineer                 | [CV/Resume](link) |
 | ...                              | ...                                                              | ...                       | ...                   | ...                          | ...                  | ...                             | ...              |
 
