@@ -2,6 +2,8 @@
 
 ## Project Description
 
+<img src="https://github.com/nomadicmehul/CloudCaptain/blob/main/Images/image.jpg" align="right" width="300">
+
 "IamACloudCaptain" is an inclusive repository aiming to provide a centralized platform for individuals seeking opportunities in the DevOps/Cloud domain. The project's primary goal is to facilitate a space where job seekers can add their professional details, enabling recruiters and organizations to discover potential talents easily.
 
 ## Mission and Goals
