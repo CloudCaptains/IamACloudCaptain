@@ -33,11 +33,20 @@ To contribute to the "IamACloudCaptain" project, follow these steps:
 
 | **Name**                         | **GitHub Profile**                                              | **Location**              | **Current Company**  | **Current Role/Designation** | **Skills Keywords**  | **Specific Roles of Interest**  | **CV/Resume**  |
 |----------------------------------|------------------------------------------------------------------|---------------------------|-----------------------|------------------------------|----------------------|---------------------------------|----------------|
-| John Doe                         | [GitHub Profile](link)                                          | New York, USA             | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes | Cloud Architect                 | [CV/Resume](link) |
+| Mehul Patel                         | [GitHub Profile](https://github.com/nomadicmehul/)                                          | Gandhinagar, India             | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes | Cloud Architect                 | [CV/Resume](link) |
 | Jane Smith                       | [GitHub Profile](link)                                          | San Francisco, USA        | XYZ Corporation        | Cloud Architect              | Azure, Terraform       | DevOps Engineer                 | [CV/Resume](link) |
 | ...                              | ...                                                              | ...                       | ...                   | ...                          | ...                  | ...                             | ...              |
 
     ```
+
+    Absolutely! You can create a separate folder to store the CVs/Resumes and then link them within the table. Here's an example:
+
+### Adding a Folder for CV/Resume Documents
+
+Create a folder named `resumes` in your repository to store the CVs/Resumes.
+
+In this updated table, the `CV/Resume` field contains a link pointing to the `resumes` folder where each contributor's CV/Resume document is stored. Replace `Mehul_Resume.pdf` with the actual file name of the respective contributor's CV/Resume document within the `resumes` folder. This structure ensures that each contributor's document is stored separately and linked from the main table in the README file.
+
 5. **Commit Changes:** Add and commit your changes.
     ```bash
     git add .
