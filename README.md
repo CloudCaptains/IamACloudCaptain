@@ -27,7 +27,7 @@ To contribute to the "IamACloudCaptain" project, follow these steps:
     ```bash
     git checkout -b add-my-details
     ```
-4. **Add Your Details:** Open the `[profiles](./profiles)` directory and add the your information using the template provided.
+4. **Add Your Details:** Open the `profiles` directory and add the your information using the template provided.
     ```markdown
     ## Data Format
 
