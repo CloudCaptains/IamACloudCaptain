@@ -27,7 +27,7 @@ To contribute to the "IamACloudCaptain" project, follow these steps:
     ```bash
     git checkout -b add-my-details
     ```
-4. **Add Your Details:** Open the `profiles` directory and create a new Markdown (`.md`) file using the template provided.
+4. **Add Your Details:** Open the `[profiles](./profiles)` directory and add the your information using the template provided.
     ```markdown
     ## Data Format
 
@@ -38,12 +38,7 @@ To contribute to the "IamACloudCaptain" project, follow these steps:
 | ...                              | ...                                                              | ...                       | ...                   | ...                          | ...                  | ...                             | ...              |
 
     ```
-
-    Absolutely! You can create a separate folder to store the CVs/Resumes and then link them within the table. Here's an example:
-
 ### Adding a Folder for CV/Resume Documents
-
-Create a folder named `resumes` in your repository to store the CVs/Resumes.
 
 In this updated table, the `CV/Resume` field contains a link pointing to the `resumes` folder where each contributor's CV/Resume document is stored. Replace `Mehul_Resume.pdf` with the actual file name of the respective contributor's CV/Resume document within the `resumes` folder. This structure ensures that each contributor's document is stored separately and linked from the main table in the README file.
 
