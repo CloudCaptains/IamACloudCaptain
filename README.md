@@ -71,7 +71,7 @@ If you encounter any issues or have suggestions for enhancements, please open an
 
 When submitting a pull request, please ensure it addresses a specific issue, follows the repository's structure and guidelines, and provides a clear explanation of the changes made.
 
-**Join Our Community!** 🚀
+## **Join Our Community!** 🚀
 
 Whether you're exploring job opportunities, seeking skilled professionals, or looking to network with like-minded individuals, "[Cloud Captain](https://t.me/CloudCaptains)" welcomes your participation:
 
