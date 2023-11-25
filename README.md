@@ -27,19 +27,21 @@ To contribute to the "IamACloudCaptain" project, follow these steps:
     ```
 3. **Create a New Branch:** Create a new branch to add your details.
     ```bash
-    git checkout -b add-my-details
+    git checkout -b firstname-lastname
     ```
 4. **Add Your Details:** Open the [profiles](./profiles/readme.md) directory and add the your information using the template provided.
-    ```markdown
-    ## Data Format
 
-| **Name**                         | **GitHub Profile**                                              | **Location**              | **Current Company**  | **Current Role/Designation** | **Skills Keywords**  | **Specific Roles of Interest**  | **CV/Resume**  |
-|----------------------------------|------------------------------------------------------------------|---------------------------|-----------------------|------------------------------|----------------------|---------------------------------|----------------|
-| Mehul Patel                         | [GitHub Profile](https://github.com/nomadicmehul/)                                          | Gandhinagar, India             | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes | Cloud Architect                 | [CV/Resume](./resumes/Mehul_Patel_Resume.pdf) |
-| Jane Smith                       | [GitHub Profile](link)                                          | San Francisco, USA        | XYZ Corporation        | Cloud Architect              | Azure, Terraform       | DevOps Engineer                 | [CV/Resume](link) |
-| ...                              | ...                                                              | ...                       | ...                   | ...                          | ...                  | ...                             | ...              |
 
-    ```
+
+    ## Candidate Information
+
+| **Name**             | **GitHub Profile**                                      | **LinkedIn Profile**                                        | **Location**          | **Current Company** | **Current Role/Designation** | **Skills Keywords**     | **Specific Roles of Interest** | **CV/Resume**                                       |
+|----------------------|----------------------------------------------------------|--------------------------------------------------------------|-----------------------|----------------------|------------------------------|--------------------------|---------------------------------|-----------------------------------------------------|
+| Mehul Patel          | [GitHub Profile](https://github.com/nomadicmehul/)      | [LinkedIn Profile](https://www.linkedin.com/in/mehulpatel/) | Gandhinagar, India    | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes | Cloud Architect                 | [CV/Resume](./resumes/Mehul_Patel_Resume.pdf)        |
+| Jane Smith           | [GitHub Profile](link)                                  | [LinkedIn Profile](link)                                    | San Francisco, USA    | XYZ Corporation        | Cloud Architect              | Azure, Terraform        | DevOps Engineer                 | [CV/Resume](link)                                  |
+| ...                  | ...                                                      | ...                                                          | ...                   | ...                  | ...                          | ...                     | ...                             | ...      |
+
+
 ### Adding a Folder for CV/Resume Documents
 
 In this updated table, the `CV/Resume` field contains a link pointing to the `resumes` folder where each contributor's CV/Resume document is stored. Replace `Mehul_Patel_Resume.pdf` with the actual file name of the respective contributor's CV/Resume document within the `resumes` folder. This structure ensures that each contributor's document is stored separately and linked from the main table in the README file.
