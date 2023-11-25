@@ -4,7 +4,7 @@
 
 <img src="https://github.com/nomadicmehul/CloudCaptain/blob/main/Images/image.jpg" align="right" width="300">
 
-"IamACloudCaptain" is an inclusive repository aiming to provide a centralized platform for individuals seeking opportunities in the DevOps/Cloud domain. The project's primary goal is to facilitate a space where job seekers can add their professional details, enabling recruiters and organizations to discover potential talents easily.
+**"IamACloudCaptain"** is an inclusive repository aiming to provide a centralized platform for individuals seeking opportunities in the DevOps/Cloud domain. The project's primary goal is to facilitate a space where job seekers can add their professional details, enabling recruiters and organizations to discover potential talents easily.
 
 ## Mission and Goals
 
@@ -18,7 +18,7 @@
 
 ### Adding Your Information
 
-To contribute to the "IamACloudCaptain" project, follow these steps:
+To contribute to the **"IamACloudCaptain"** project, follow these steps:
 
 1. **Fork the Repository:** Click on the "Fork" button to create a copy of the repository in your GitHub account.
 2. **Clone the Repository:** Clone the forked repository to your local machine.
@@ -30,16 +30,16 @@ To contribute to the "IamACloudCaptain" project, follow these steps:
     git checkout -b add-my-details
     ```
 4. **Add Your Details:** Open the [profiles](./profiles/readme.md) directory and add the your information using the template provided.
-    ```markdown
-    ## Data Format
-
-| **Name**                         | **GitHub Profile**                                              | **Location**              | **Current Company**  | **Current Role/Designation** | **Skills Keywords**  | **Specific Roles of Interest**  | **CV/Resume**  |
-|----------------------------------|------------------------------------------------------------------|---------------------------|-----------------------|------------------------------|----------------------|---------------------------------|----------------|
-| Mehul Patel                         | [GitHub Profile](https://github.com/nomadicmehul/)                                          | Gandhinagar, India             | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes | Cloud Architect                 | [CV/Resume](./resumes/Mehul_Patel_Resume.pdf) |
-| Jane Smith                       | [GitHub Profile](link)                                          | San Francisco, USA        | XYZ Corporation        | Cloud Architect              | Azure, Terraform       | DevOps Engineer                 | [CV/Resume](link) |
-| ...                              | ...                                                              | ...                       | ...                   | ...                          | ...                  | ...                             | ...              |
-
     ```
+    ## Data Format
+## Data Format
+
+| **Name**        | **GitHub Profile**                                       | **Location**           | **Current Company** | **Current Role/Designation** | **Skills Keywords**         | **Specific Roles of Interest** | **CV/Resume**                          | **LinkedIn Profile**                    | **Availability** |
+|-----------------|----------------------------------------------------------|------------------------|----------------------|------------------------------|-----------------------------|------------------------------------|---------------------------------------|---------------------------------------|-------------------|
+| Mehul Patel      | [GitHub Profile](https://github.com/nomadicmehul/)      | Gandhinagar, India     | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes    | Cloud Architect                    | [CV/Resume](./resumes/Mehul_Patel_Resume.pdf) | [LinkedIn Profile](linkedin_profile_link) | Immediate        |
+| Jane Smith       | [GitHub Profile](link)                                   | San Francisco, USA     | XYZ Corporation       | Cloud Architect              | Azure, Terraform            | DevOps Engineer                    | [CV/Resume](link)                       | [LinkedIn Profile](linkedin_profile_link) | 2 months notice   |
+| ...             | ...                                                      | ...                    | ...                  | ...                          | ...                         | ...                                | ...                                   | ...                                   | ...               
+
 ### Adding a Folder for CV/Resume Documents
 
 In this updated table, the `CV/Resume` field contains a link pointing to the `resumes` folder where each contributor's CV/Resume document is stored. Replace `Mehul_Patel_Resume.pdf` with the actual file name of the respective contributor's CV/Resume document within the `resumes` folder. This structure ensures that each contributor's document is stored separately and linked from the main table in the README file.
@@ -63,7 +63,7 @@ In this updated table, the `CV/Resume` field contains a link pointing to the `re
 
 ## Contribution Guidelines
 
-Contributions to the "IamACloudCaptain" project are welcome! Feel free to suggest improvements, enhancements, or additional features by creating issues or submitting pull requests.
+Contributions to the **"IamACloudCaptain"** project are welcome! Feel free to suggest improvements, enhancements, or additional features by creating issues or submitting pull requests.
 
 ### Reporting Issues
 
@@ -77,7 +77,7 @@ When submitting a pull request, please ensure it addresses a specific issue, fol
 
 Whether you're exploring job opportunities, seeking skilled professionals, or looking to network with like-minded individuals, "[Cloud Captain](https://t.me/CloudCaptains)" welcomes your participation:
 
-- **Contributors:** Job seekers interested in DevOps/Cloud roles are encouraged to add their professional details to the repository. Follow the guidelines in the README to include your information and become a part of our growing network of talented individuals.
+- **Contributors:** Job seekers interested in DevOps/Cloud roles are encouraged to add their professional details to the repository. Follow the guidelines in the README.md to include your information and become a part of our growing network of talented individuals.
 
 - **Recruiters/Employers:** Discover potential talents and connect with individuals actively seeking opportunities in the DevOps/Cloud domain. Explore the profiles added by contributors to find the right fit for your team.
 
@@ -85,7 +85,7 @@ Whether you're exploring job opportunities, seeking skilled professionals, or lo
 
 #### Benefits of Joining
 
-By becoming a part of the "Cloud Captain" community, you'll:
+By becoming a part of the **"Cloud Captain"** community, you'll:
 
 - **Expand Your Network:** Connect with professionals in the industry, broaden your connections, and explore new opportunities.
 
