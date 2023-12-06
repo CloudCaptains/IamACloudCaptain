@@ -34,7 +34,8 @@ To contribute to the **"IamACloudCaptain"** project, follow these steps:
     ## Data Format
 ## Data Format
 
-| **Name**        | **GitHub Profile**                                       | **Location**           | **Current Company** | **Current Role/Designation** | **Skills Keywords**         | **Specific Roles of Interest** | **CV/Resume**                          | **LinkedIn Profile**                    | **Availability** |
+=======
+| **Name**        | **GitHub Profile**                                       | **Current Location**           | **Current Company** | **Current Role/Designation** | **Skills Keywords**         | **Specific Roles of Interest** | **CV/Resume**                          | **LinkedIn Profile**                    | **Availability** |
 |-----------------|----------------------------------------------------------|------------------------|----------------------|------------------------------|-----------------------------|------------------------------------|---------------------------------------|---------------------------------------|-------------------|
 | Mehul Patel      | [GitHub Profile](https://github.com/nomadicmehul/)      | Gandhinagar, India     | ABC Solutions         | DevOps Engineer              | AWS, Docker, Kubernetes    | Cloud Architect                    | [CV/Resume](./resumes/Mehul_Patel_Resume.pdf) | [LinkedIn Profile](linkedin_profile_link) | Immediate        |
 | Jane Smith       | [GitHub Profile](link)                                   | San Francisco, USA     | XYZ Corporation       | Cloud Architect              | Azure, Terraform            | DevOps Engineer                    | [CV/Resume](link)                       | [LinkedIn Profile](linkedin_profile_link) | 2 months notice   |
