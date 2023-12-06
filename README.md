@@ -51,7 +51,7 @@ To contribute to the **"IamACloudCaptain"** project, follow these steps:
 
     ![](./guide_image/7.png)
 
-8. **Upload Data:** After uploading your resume and updating the readme.md file in the resume folder, ensure to commit and push all the changes to GitHub. 
+8. **Upload Data:** After uploading your resume and updating the readme.md file in the `resume` folder, ensure to commit and push all the changes to GitHub. 
 
     ![](./guide_image/8.png)
 
