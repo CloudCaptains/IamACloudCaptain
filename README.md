@@ -91,6 +91,9 @@ To contribute to the **"IamACloudCaptain"** project, follow these steps:
 | Jane Smith       | [GitHub Profile](link)                                   | San Francisco, USA     | XYZ Corporation       | Cloud Architect              | Azure, Terraform            | DevOps Engineer                    | [CV/Resume](link)                       | [LinkedIn Profile](linkedin_profile_link) | 2 months notice   |
 | ...             | ...                                                      | ...                    | ...                  | ...                          | ...                         | ...                                | ...                                   | ...                                   | ...               
 
+
+In this updated table, the `CV/Resume` field contains a link pointing to the `resumes` folder where each contributor's CV/Resume document is stored. Replace `sample-resume.pdf` with the actual file name of the respective contributor's CV/Resume document within the `resumes` folder. This structure ensures that each contributor's document is stored separately and linked from the main table in the README file.
+
 ### Guidelines for Adding Details
 
 - **Accuracy:** Ensure the information added is accurate and up-to-date.
